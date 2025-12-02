@@ -1,5 +1,3 @@
-# projeto-3-semestre
-
 # Instalação e Dependências Necessárias
 - pip install qrcode[pil]
 - pip install pillow
