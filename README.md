@@ -23,5 +23,6 @@ Quando detecta um:
 - Impede duplicações no mesmo dia
 - Registra no banco SQLite
 - Emite um beep
+- Para encerrar a leitura precione a tecla "q"
 
 Atualiza automaticamente o CSV com chamada do dia
